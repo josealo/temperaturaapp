@@ -10,6 +10,8 @@ package temperaturaapp;
  * @author José Manuel
  */
 public class Temperatura {
+
+	//prueba
   
     //Valor de temperatura
     private double temperatura;
