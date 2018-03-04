@@ -12,8 +12,12 @@ package temperaturaapp;
 public class Temperatura {
 
 	//prueba
+<<<<<<< HEAD
 	
 	//tercer cambio
+=======
+	//mas pruebas
+>>>>>>> refs/heads/masCosas
   
     //Valor de temperatura
     private double temperatura;
