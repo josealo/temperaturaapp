@@ -12,6 +12,8 @@ package temperaturaapp;
 public class Temperatura {
 
 	//prueba
+	
+	//tercer cambio
   
     //Valor de temperatura
     private double temperatura;
